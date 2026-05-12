@@ -1,0 +1,10 @@
+May 12 22:01:04 srv sshd[1234]: Failed password for root from 203.0.113.10 port 40212 ssh2
+May 12 22:01:06 srv sshd[1235]: Failed password for root from 203.0.113.10 port 40214 ssh2
+May 12 22:01:08 srv sshd[1236]: Failed password for invalid user admin from 203.0.113.10 port 40216 ssh2
+May 12 22:01:10 srv sshd[1237]: Invalid user test from 203.0.113.10 port 40218
+May 12 22:01:12 srv sshd[1238]: Failed password for invalid user test from 203.0.113.10 port 40218 ssh2
+May 12 22:01:20 srv sshd[1239]: Failed password for ubuntu from 203.0.113.10 port 40220 ssh2
+May 12 22:02:30 srv sshd[1240]: Accepted password for alice from 198.51.100.7 port 51000 ssh2
+May 12 22:05:00 srv sshd[1241]: Failed password for bob from 198.51.100.8 port 52000 ssh2
+May 12 22:06:00 srv sshd[1242]: Some unrelated message that should be ignored
+May 12 22:10:00 srv sshd[1243]: Failed password for carol from 198.51.100.9 port 53000 ssh2

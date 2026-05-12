@@ -1,0 +1,4 @@
+cidr,country,asn,org
+203.0.113.0/24,Documentation,AS64496,TEST-NET-3
+198.51.100.0/24,Documentation,AS64497,TEST-NET-2
+192.0.2.0/24,Documentation,AS64498,TEST-NET-1

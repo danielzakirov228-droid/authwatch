@@ -1,0 +1,6 @@
+# runtime: zero hard dependencies on purpose — authwatch uses only the stdlib.
+# optional extras:
+#   pytest is needed only for running tests
+
+# dev
+pytest>=7.0
