@@ -25,7 +25,7 @@ read the whole source in an afternoon.
 ## Install
 
 ```
-git clone https://github.com/yourname/authwatch
+git clone https://github.com/danielzakirov228-droid/authwatch
 cd authwatch
 pip install .
 ```
